@@ -1,0 +1,14 @@
+body {
+	background-color: navajowhite;
+	text-align: center; 
+}
+
+button {
+	font-weight: bold;
+	font-size: 16px;
+	border-style: outset;
+	padding: 16px;
+	margin: 4px 2px; /* margins are used to create space around elements outside of any defined borders */
+	cursor: pointer;
+	background-color: orange;
+}
