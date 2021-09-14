@@ -2,6 +2,10 @@ body {
 	background-color: navajowhite;
 	text-align: center; 
 }
+h1 {
+	padding: 10px;
+	font-size: 40px
+}
 
 button {
 	font-weight: bold;
