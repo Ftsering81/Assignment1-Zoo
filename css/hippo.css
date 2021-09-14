@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color: navajowhite;
+}
+h1 {
+	padding: 10px;
+}
+
+img {
+	width: 30%;
+}
+
+hr {
+	border-color: orange;
+}
+
+p {
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: normal;
+	font-style: oblique;
+}
