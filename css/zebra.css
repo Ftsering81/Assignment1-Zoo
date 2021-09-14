@@ -13,8 +13,9 @@ hr {
 }
 
 p {
+	text-align: left;
+	padding: 0px 20px 10px 20px;
 	font-size: 20px;
-	font-family: Arial;
+	font-family: times;
 	font-weight: normal;
-	font-style: oblique;
 }
